@@ -1,5 +1,8 @@
 # Wild Rydes Project
 
+![Alt text](Full-architecture.png)
+----
+
 ## Overview
 Welcome to the Wild Rydes project! This web application allows users to request unicorn rides from the Wild Rydes fleet. Users can specify their desired pickup location via a user-friendly HTML interface. The backend of the application communicates with a RESTful web service to handle ride requests and dispatch nearby unicorns. Additionally, the application includes features for user registration and login to facilitate ride requests.
 
